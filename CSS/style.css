@@ -1,0 +1,7 @@
+body {
+    padding-top: 70px; /* space for fixed navbar */
+  }
+  .dark-mode {
+    background-color: #121212;
+    color: white;
+  }
